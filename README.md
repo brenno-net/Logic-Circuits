@@ -1,6 +1,6 @@
 # Repositório de Circuitos Lógicos - Logisim
 
-Este repositório contém uma coleção de circuitos lógicos desenvolvidos utilizando a ferramenta Logisim. Os circuitos aqui presentes foram criados como parte do estudo da matéria de Sistemas Digitais na Universidade [Nome da Universidade].
+Este repositório contém uma coleção de circuitos lógicos desenvolvidos utilizando a ferramenta Logisim. Os circuitos aqui presentes foram criados como parte do estudo da matéria de Sistemas Digitais na Universidade de Brasília.
 
 ## Objetivo
 
