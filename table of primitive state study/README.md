@@ -1,6 +1,6 @@
 Tabela de estados primitivos para estudo de um circuito proposto em classe
 
- ** | STATE | P'R'    | P'R    | PR    | PR'    | Z | **
+    | STATE | P'R'    | P'R    | PR    | PR'    | Z | 
     |-------|---------|--------|-------|--------|---|
     | IDLE  | IDLE*   | IDLE*  | RESET | PULSE  | 0 |
     | PULSE | PULSE*  | IDLE   | PASS  | PULSE* | 1 |
