@@ -1,4 +1,6 @@
-Tabela de estados primitivos para estudo de um circuito proposto em classe
+Tabela de estados primitivos para estudo de um circuito proposto em classe.
+
+usaremos o símbolo (') para representar a negação da variavel de entrada e * para representar os estados estáveis.
 
     | STATE | P'R'    | P'R    | PR    | PR'    | Z | 
     |-------|---------|--------|-------|--------|---|
